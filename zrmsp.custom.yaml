@@ -1,0 +1,24 @@
+patch:
+  #加入八股文，测试：各个国家有各个国家的国歌，充滿希望的跋涉比到達目的地更能給人樂趣
+  #__include: grammar:/hans
+  # 扩充词库
+  #translator/dictionary: luna_pinyin.extended
+  #加入自动造词；
+  translator/enable_user_dict: true
+  # 自动造句 (阴阳鱼☯️️ 图标)不太管用
+  translator/enable_sentence: true
+  # 扩充符号库
+  punctuator/import_preset: symbols
+  recognizer/patterns/punct: "^/([A-Z|a-z]*|[0-9]|10)$"
+ 
+  #分号选择重码
+  key_binder/bindings:
+    #- { when: composing, accept: Return, send: Escape }
+    #回车键清除编码测试；
+    - { when: has_menu, accept: semicolon, send: 2 }
+    #
+    - { when: has_menu, accept: apostrophe, send: 3 }
+    #单引号选第3候选字
+    # minus/减号，equal/等号，comma/逗号，period/句号，exclam/感叹号，
+    # numbersign/井号，percent/百分号，semicolon/分号，apostrophe/单引号,
+    # brcketleft/左中括号,bracketright/右中括号
