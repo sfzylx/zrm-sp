@@ -38,7 +38,6 @@ vocabulary: essay-zh-hans
 
 # 以下为《通用规范汉字表》中的汉字
 一	yi:aa	32747
-一	yi:hh	200
 乙	yi:aa	45
 二	er:aa	2718
 十	shi:aa	4082
@@ -88,24 +87,24 @@ vocabulary: essay-zh-hans
 乞	qi:py	30
 川	chuan:pa	30
 亿	yi:ry	195
-个	ge:pa	13602
+个	ge:ra	13602
 夕	xi:pd	30
 久	jiu:dd	467
 么	ma:ps	30
 么	me:ps	8053
 么	mo:ps	30
 么	yao:ps	30
-勺	shao:bd	30
-凡	fan:dj	135
+勺	shao:gd	30
+凡	fan:jd	135
 丸	wan:jd	13
-及	ji:nd	721
+及	ji:pd	721
 广	guang:dp	628
 广	an:dp	30
-亡	wang:da	94
-亡	wu:da	30
+亡	wang:wa	94
+亡	wu:wa	30
 门	men:dg	1653
 丫	ya:ba	56
-义	yi:di	4472
+义	yi:dw	4472
 之	zhi:dd	2282
 尸	shi:ap	14
 己	ji:ag	2585
@@ -119,7 +118,7 @@ vocabulary: essay-zh-hans
 刃	ren:dd	30
 飞	fei:yd	943
 习	xi:ga	836
-叉	cha:dy	30
+叉	cha:yd	30
 马	ma:aa	891
 乡	xiang:ap	433
 丰	feng:aa	264
@@ -132,7 +131,7 @@ vocabulary: essay-zh-hans
 无	wu:ag	1997
 云	yun:es	207
 专	zhuan:ad	602
-丐	gai:aa	30
+丐	gai:ag	30
 扎	zha:fg	133
 扎	za:fg	30
 艺	yi:cy	609
@@ -144,8 +143,8 @@ vocabulary: essay-zh-hans
 不	dun:ad	30
 犬	quan:ad	12
 太	tai:dd	1716
-区	qu:ki	1211
-区	ou:ki	30
+区	qu:kw	1211
+区	ou:kw	30
 历	li:il	819
 歹	dai:ad	30
 友	you:uy	712
@@ -164,18 +163,18 @@ vocabulary: essay-zh-hans
 瓦	wa:ad	46
 止	zhi:aa	380
 少	shao:xp	1872
-曰	yue:oy	12
-日	ri:or	1276
+曰	yue:aa	12
+日	ri:aa	1276
 中	zhong:aa	4941
 贝	bei:ad	49
-冈	gang:ki	37
+冈	gang:kw	37
 内	nei:ad	1434
-水	shui:uv	2819
+水	shui:ad	2819
 见	jian:ag	3167
 见	xian:ag	446
 午	wu:pu	270
 牛	niu:pa	270
-手	shou:ub	2627
+手	shou:pa	2627
 气	qi:py	2559
 毛	mao:pg	536
 壬	ren:pu	30
@@ -199,31 +198,31 @@ vocabulary: essay-zh-hans
 爪	zhao:pd	18
 反	fan:py	2114
 介	jie:ra	156
-父	fu:bi	516
+父	fu:bw	516
 从	cong:rr	3733
 仑	lun:rb	30
 今	jin:ra	1239
-凶	xiong:ik	78
+凶	xiong:kw	78
 分	fen:bd	3496
 乏	fa:pv	103
 公	gong:bs	1289
 仓	cang:re	47
-月	yue:oy	1705
+月	yue:pa	1705
 氏	zhi:pg	30
 氏	shi:pg	40
-勿	wu:bp	30
+勿	wu:gp	30
 欠	qian:dr	69
-风	feng:ji	1185
+风	feng:jw	1185
 丹	dan:pd	42
-匀	yun:bd	34
+匀	yun:gd	34
 乌	wu:pa	69
 勾	gou:gs	42
 凤	feng:jy	16
 六	liu:db	1035
 六	lu:db	30
 文	wen:dd	1890
-亢	kang:dj	30
-方	fang:dd	3514
+亢	kang:wj	30
+方	fang:dp	3514
 火	huo:dd	956
 为	wei:dd	6395
 斗	dou:du	1360
@@ -269,8 +268,8 @@ vocabulary: essay-zh-hans
 去	qu:ts	7347
 甘	gan:aa	42
 世	shi:aa	1238
-艾	yi:ci	30
-艾	ai:ci	30
+艾	yi:cw	30
+艾	ai:cw	30
 古	gu:uk	440
 节	jie:ce	533
 本	ben:aa	2326
@@ -286,7 +285,7 @@ vocabulary: essay-zh-hans
 布	bu:ju	744
 夯	ben:dl	30
 夯	hang:dl	30
-戊	wu:hd	30
+戊	wu:gp	30
 龙	long:ad	76
 平	ping:aa	1484
 灭	mie:ah	328
@@ -362,19 +361,19 @@ vocabulary: essay-zh-hans
 尔	er:dx	26
 乐	le:pd	283
 乐	yue:pd	54
-句	gou:bk	30
-句	ju:bk	624
-匆	cong:bp	124
-册	ce:ka	21
+句	gou:gk	30
+句	ju:gk	624
+匆	cong:gp	124
+册	ce:pa	21
 卯	mao:em	30
 犯	fan:qe	250
 外	wai:xb	2233
 处	chu:wb	1167
 冬	dong:wd	272
-鸟	diao:na	30
-鸟	niao:na	190
+鸟	diao:pa	30
+鸟	niao:pa	190
 务	wu:wl	918
-包	bao:bs	706
+包	bao:gs	706
 饥	ji:uj	37
 主	zhu:dw	6884
 市	shi:wj	690
@@ -426,7 +425,7 @@ vocabulary: essay-zh-hans
 幼	you:ly	66
 丝	si:aa	186
 邦	bang:ef	13
-式	shi:gy	577
+式	shi:yg	577
 迂	yu:zy	30
 刑	xing:dk	115
 戎	rong:gu	30
@@ -438,7 +437,7 @@ vocabulary: essay-zh-hans
 扣	kou:fk	62
 考	kao:lk	334
 托	tuo:fq	101
-老	lao:bl	3598
+老	lao:lb	3598
 巩	gong:gf	125
 圾	ji:tj	38
 执	zhi:fw	218
@@ -475,7 +474,7 @@ vocabulary: essay-zh-hans
 存	cun:uz	460
 而	er:aa	3483
 页	ye:ab	35
-匠	jiang:jk	86
+匠	jiang:kj	86
 夸	kua:dk	43
 夺	duo:cd	197
 灰	hui:hu	189
@@ -528,7 +527,7 @@ vocabulary: essay-zh-hans
 岂	qi:uj	51
 则	ze:bd	535
 刚	gang:dg	873
-网	wang:ki	120
+网	wang:kw	120
 肉	rou:ad	278
 年	nian:pa	5553
 朱	zhu:pw	30
@@ -579,10 +578,10 @@ vocabulary: essay-zh-hans
 全	quan:rw	2824
 会	kuai:ry	9
 会	hui:ry	6866
-杀	sha:im	275
+杀	sha:wm	275
 合	ge:rk	30
 合	he:rk	1585
-兆	zhao:dd	30
+兆	zhao:pd	30
 企	qi:rv	244
 众	zhong:rc	1149
 爷	ye:fe	952
@@ -594,11 +593,11 @@ vocabulary: essay-zh-hans
 朵	duo:jm	242
 杂	za:jm	356
 危	wei:de	308
-旬	xun:bo	25
+旬	xun:go	25
 旨	zhi:bo	30
 旭	xu:jo	30
 负	fu:db	347
-匈	xiong:bx	30
+匈	xiong:gx	30
 名	ming:xk	767
 各	ge:wk	1806
 多	duo:xx	5568
@@ -607,26 +606,26 @@ vocabulary: essay-zh-hans
 色	se:db	950
 壮	zhuang:ju	174
 冲	chong:dv	461
-妆	zhuang:jn	30
+妆	zhuang:np	30
 冰	bing:du	167
 庄	zhuang:gt	337
 庆	qing:gd	51
-亦	yi:dd	35
+亦	yi:wd	35
 刘	liu:dw	30
 齐	qi:wa	190
-交	jiao:df	642
+交	jiao:wf	642
 衣	yi:dd	646
 次	ci:dq	1715
-产	chan:dp	4099
-决	jue:dd	1503
-亥	hai:dd	30
-充	chong:dy	375
+产	chan:wp	4099
+决	jue:dg	1503
+亥	hai:wd	30
+充	chong:wy	375
 妄	wang:nw	48
 闭	bi:mc	117
-问	wen:km	2892
+问	wen:mk	2892
 闯	chuang:mm	55
 羊	yang:da	216
-并	bing:bk	1420
+并	bing:qc	1420
 关	guan:bt	1758
 米	mi:dd	784
 灯	deng:hd	483
@@ -659,7 +658,7 @@ vocabulary: essay-zh-hans
 讽	feng:yf	14
 设	she:yu	1097
 访	fang:yf	73
-诀	jue:yd	30
+诀	jue:yg	30
 寻	xun:cx	127
 寻	xin:cx	14
 那	na:el	7249
@@ -686,7 +685,7 @@ vocabulary: essay-zh-hans
 戏	hu:yg	30
 戏	xi:yg	205
 羽	yu:xx	16
-观	guan:jy	1031
+观	guan:yj	1031
 欢	huan:yq	500
 买	mai:at	774
 红	gong:sg	30
@@ -732,11 +731,11 @@ vocabulary: essay-zh-hans
 扯	che:fv	88
 走	zou:tv	3176
 抄	chao:fu	70
-贡	gong:bg	97
+贡	gong:gb	97
 汞	gong:gu	22
 坝	ba:tb	24
 攻	gong:gw	313
-赤	chi:tb	34
+赤	chi:ty	34
 折	zhe:fj	220
 折	she:fj	11
 抓	zhua:fv	403
@@ -759,7 +758,7 @@ vocabulary: essay-zh-hans
 壳	ke:uj	67
 壳	qiao:uj	30
 志	zhi:ux	2082
-块	kuai:td	929
+块	kuai:tg	929
 扭	niu:fi	95
 声	sheng:um	2326
 把	ba:fb	5330
@@ -792,7 +791,7 @@ vocabulary: essay-zh-hans
 材	cai:mc	525
 村	cun:mc	806
 杖	zhang:mv	30
-杏	xing:km	30
+杏	xing:mo	30
 杉	sha:mp	30
 杉	shan:mp	17
 巫	wu:gc	30
@@ -822,11 +821,11 @@ vocabulary: essay-zh-hans
 连	lian:zi	1073
 轩	xuan:ig	30
 步	bu:vx	1113
-卤	lu:ba	30
+卤	lu:bw	30
 坚	jian:ty	695
 肖	xiao:ox	50
 旱	han:og	59
-盯	ding:md	65
+盯	ding:od	65
 呈	cheng:kw	40
 时	shi:oc	6805
 吴	wu:kt	30
@@ -934,7 +933,7 @@ vocabulary: essay-zh-hans
 龟	gui:dd	11
 龟	jun:dd	30
 龟	qiu:dd	30
-甸	dian:bt	28
+甸	dian:gt	28
 免	mian:de	193
 狂	kuang:qw	101
 犹	you:qy	57
@@ -957,7 +956,7 @@ vocabulary: essay-zh-hans
 言	yan:da	307
 冻	dong:dd	133
 状	zhuang:jq	268
-亩	mu:dt	107
+亩	mu:wt	107
 况	kuang:dx	719
 床	chuang:gm	379
 库	ku:gi	91
@@ -971,7 +970,7 @@ vocabulary: essay-zh-hans
 庐	lu:gh	30
 序	xu:gy	131
 辛	xin:lu	90
-弃	qi:cw	51
+弃	qi:wc	51
 冶	ye:dt	61
 忘	wang:xw	312
 闰	run:mw	30
@@ -1001,14 +1000,14 @@ vocabulary: essay-zh-hans
 没	mo:du	44
 沟	gou:dg	136
 沪	hu:dh	30
-沈	chen:dg	30
-沈	shen:dg	30
+沈	chen:dy	30
+沈	shen:dy	30
 沉	chen:dj	446
 沁	qin:dx	30
 怀	huai:xb	281
 忧	you:xy	23
 忱	chen:xg	12
-快	kuai:xd	1613
+快	kuai:xg	1613
 完	wan:by	1502
 宋	song:bm	30
 宏	hong:bh	31
@@ -1022,7 +1021,7 @@ vocabulary: essay-zh-hans
 评	ping:yp	439
 补	bu:yb	141
 初	chu:yd	405
-社	she:tu	2459
+社	she:ut	2459
 祀	si:us	30
 识	zhi:yv	30
 识	shi:yv	1175
@@ -1045,7 +1044,7 @@ vocabulary: essay-zh-hans
 局	ju:uk	505
 改	gai:jw	1090
 张	zhang:gi	785
-忌	ji:jx	30
+忌	ji:xj	30
 际	ji:eu	706
 陆	liu:ej	30
 陆	lu:ej	202
@@ -1086,7 +1085,7 @@ vocabulary: essay-zh-hans
 环	huan:wb	291
 武	wu:vy	337
 青	qing:fo	828
-责	ze:bf	363
+责	ze:fb	363
 现	xian:wj	3900
 玫	mei:ww	30
 表	biao:fy	1608
@@ -1177,16 +1176,16 @@ vocabulary: essay-zh-hans
 枫	feng:mf	30
 构	gou:mg	317
 杭	hang:mk	30
-杰	jie:dm	25
+杰	jie:hm	25
 述	shu:zu	109
 枕	zhen:mg	34
-丧	sang:hd	22
+丧	sang:ty	22
 或	huo:gk	1133
 画	hua:ak	493
 卧	wo:bi	45
 事	shi:aa	3566
 刺	ci:dc	162
-枣	zao:hd	20
+枣	zao:cd	20
 雨	yu:ad	545
 卖	mai:um	530
 郁	yu:ey	13
@@ -1202,7 +1201,7 @@ vocabulary: essay-zh-hans
 态	tai:xt	381
 欧	ou:qq	16
 殴	ou:uq	30
-垄	long:lt	28
+垄	long:tl	28
 妻	qi:na	69
 轰	hong:iu	77
 顷	qing:by	26
@@ -1365,8 +1364,8 @@ vocabulary: essay-zh-hans
 饱	bao:ub	85
 饲	si:us	36
 变	bian:wy	1669
-京	jing:dx	30
-享	xiang:dz	76
+京	jing:wx	30
+享	xiang:wz	76
 庞	pang:gl	19
 店	dian:gv	300
 夜	ye:dd	799
@@ -1385,7 +1384,7 @@ vocabulary: essay-zh-hans
 庚	geng:gd	30
 废	fei:gf	111
 净	jing:dv	152
-盲	mang:mw	41
+盲	mang:ow	41
 放	fang:fw	2045
 刻	ke:dh	653
 育	yu:dy	547
@@ -1608,7 +1607,7 @@ vocabulary: essay-zh-hans
 枯	ku:mg	34
 柄	bing:mb	29
 栋	dong:md	30
-相	xiang:mm	1349
+相	xiang:mo	1349
 查	zha:md	30
 查	cha:md	470
 柏	bai:mb	19
@@ -1661,7 +1660,7 @@ vocabulary: essay-zh-hans
 削	xiao:dx	33
 尝	chang:dy	38
 昧	mei:ow	27
-盹	dun:mt	30
+盹	dun:ot	30
 是	shi:op	28130
 盼	pan:mf	74
 眨	zha:mf	51
@@ -1820,8 +1819,8 @@ vocabulary: essay-zh-hans
 将	jiang:dc	1236
 奖	jiang:dx	69
 哀	ai:dy	55
-亭	ting:db	53
-亮	liang:dj	549
+亭	ting:wd	53
+亮	liang:wj	549
 度	du:gy	1836
 度	duo:gy	30
 迹	ji:zy	87
@@ -2114,7 +2113,7 @@ vocabulary: essay-zh-hans
 党	dang:dx	2652
 逞	cheng:zi	30
 晒	shai:ox	54
-眠	mian:mm	48
+眠	mian:om	48
 晓	xiao:oy	83
 哮	xiao:kx	19
 唠	lao:kl	30
@@ -2508,12 +2507,12 @@ vocabulary: essay-zh-hans
 雀	qiao:vx	30
 堂	tang:dt	190
 常	chang:dd	1760
-眶	kuang:mk	18
+眶	kuang:ok	18
 匙	chi:bu	30
 匙	shi:bu	13
 晨	chen:oi	152
 睁	zheng:mv	120
-眯	mi:mm	64
+眯	mi:om	64
 眼	yan:mg	2215
 悬	xuan:xx	52
 野	ye:ly	360
@@ -2894,7 +2893,7 @@ vocabulary: essay-zh-hans
 赏	shang:bk	58
 掌	zhang:dk	293
 晴	qing:oq	61
-睐	lai:ml	30
+睐	lai:ol	30
 暑	shu:ov	13
 最	zui:oq	2100
 晰	xi:ox	37
@@ -3191,14 +3190,14 @@ vocabulary: essay-zh-hans
 辐	fu:if	31
 辑	ji:ie	69
 输	shu:iy	231
-督	du:mu	53
+督	du:ou	53
 频	pin:yb	48
 龄	ling:il	43
 鉴	jian:jv	33
-睛	jing:mq	723
-睹	du:mv	30
+睛	jing:oq	723
+睹	du:ov	30
 睦	mu:mt	30
-瞄	miao:mm	13
+瞄	miao:om	13
 睫	jie:mj	12
 睡	shui:mi	672
 睬	cai:mc	30
@@ -3413,7 +3412,7 @@ vocabulary: essay-zh-hans
 裳	chang:dy	30
 裳	shang:dy	56
 颗	ke:yg	207
-瞅	chou:mq	34
+瞅	chou:oq	34
 墅	shu:ty	30
 嗽	sou:kq	39
 踊	yong:zy	30
@@ -3554,7 +3553,7 @@ vocabulary: essay-zh-hans
 震	zhen:yi	221
 霄	xiao:yx	30
 霉	mei:ym	38
-瞒	man:ml	32
+瞒	man:oc	32
 题	ti:uy	1649
 暴	bao:ou	151
 暴	pu:ou	30
@@ -3737,11 +3736,11 @@ vocabulary: essay-zh-hans
 磷	lin:ul	27
 霜	shuang:yx	62
 霞	xia:yj	15
-瞭	liao:ml	345
+瞭	liao:ol	345
 瞧	qiao:mj	250
-瞬	shun:mu	30
-瞳	tong:mt	30
-瞩	zhu:mu	30
+瞬	shun:ou	30
+瞳	tong:ot	30
+瞩	zhu:ou	30
 瞪	deng:md	77
 曙	shu:ou	30
 蹋	ta:zy	13
@@ -3779,7 +3778,7 @@ vocabulary: essay-zh-hans
 鞭	bian:gb	48
 藤	teng:ct	14
 覆	fu:xf	27
-瞻	zhan:mv	12
+瞻	zhan:ov	12
 蹦	beng:zb	28
 嚣	xiao:kk	30
 镰	lian:jl	14
@@ -4105,7 +4104,7 @@ vocabulary: essay-zh-hans
 佘	she:ru	10
 佥	qian:ra	10
 孚	fu:vz	10
-豸	zhi:vi	10
+豸	zhi:pp	10
 坌	ben:tf	10
 肟	wo:ok	10
 邸	di:ed	10
@@ -4120,7 +4119,7 @@ vocabulary: essay-zh-hans
 饪	ren:ur	10
 饫	yu:uy	10
 饬	chi:ul	10
-亨	heng:dl	10
+亨	heng:wl	10
 庑	wu:gw	10
 庋	gui:gv	10
 疔	ding:bd	10
@@ -4272,7 +4271,7 @@ vocabulary: essay-zh-hans
 轭	e:ie	10
 郅	zhi:ev	10
 鸢	yuan:ny	10
-盱	xu:my	10
+盱	xu:oy	10
 昊	hao:ot	10
 昙	tan:oy	10
 杲	gao:om	10
@@ -4590,10 +4589,10 @@ vocabulary: essay-zh-hans
 尜	ga:xx	10
 哐	kuang:kk	10
 眄	mian:mg	10
-眍	kou:mq	10
+眍	kou:oq	10
 𠳐	bang:kb	10
 郢	ying:ei	10
-眇	miao:mu	10
+眇	miao:ou	10
 眊	mao:mm	10
 眈	dan:mg	10
 禺	yu:sd	10
@@ -4917,11 +4916,11 @@ vocabulary: essay-zh-hans
 鸬	lu:nl	10
 虔	qian:hw	10
 逍	xiao:zx	10
-眬	long:ml	10
+眬	long:ol	10
 唛	mai:km	10
 晟	sheng:oi	10
-眩	xuan:mx	10
-眙	yi:mt	10
+眩	xuan:ox	10
+眙	yi:ot	10
 哧	chi:ki	35
 哽	geng:kg	12
 唔	n:kw	10
@@ -5254,9 +5253,9 @@ vocabulary: essay-zh-hans
 啧	ze:kz	10
 晡	bu:of	10
 晤	wu:ow	10
-眺	tiao:mv	11
+眺	tiao:ov	11
 眵	chi:md	10
-眸	mou:mm	10
+眸	mou:om	10
 圊	qing:kq	10
 喏	nuo:kr	10
 喏	re:kr	10
@@ -5584,10 +5583,10 @@ vocabulary: essay-zh-hans
 辍	chuo:iu	10
 辎	zi:it	10
 斐	fei:wf	10
-睄	xiao:mx	10
+睄	xiao:ox	10
 睑	jian:mh	10
 睇	di:md	10
-睃	suo:mw	10
+睃	suo:ow	10
 戢	ji:ad	10
 喋	die:km	10
 喋	zha:km	10
@@ -5909,13 +5908,13 @@ vocabulary: essay-zh-hans
 訾	zi:yc	10
 粲	can:my	10
 虞	yu:hw	10
-睚	ya:my	10
+睚	ya:oy	10
 嗪	qin:kq	10
 韪	wei:uw	10
 嗷	ao:ka	10
 嗉	su:ks	10
 睨	ni:me	10
-睢	sui:mv	10
+睢	sui:ov	10
 雎	ju:qv	10
 睥	bi:mb	10
 睥	pi:mb	10
@@ -6188,8 +6187,8 @@ vocabulary: essay-zh-hans
 龈	ken:ig	10
 龈	yin:ig	10
 睿	rui:bm	10
-䁖	lou:ml	10
-睽	kui:mg	10
+䁖	lou:ol	10
+睽	kui:og	10
 嘞	lei:kl	10
 嘈	cao:kc	13
 嘌	piao:kp	10
@@ -6345,7 +6344,7 @@ vocabulary: essay-zh-hans
 鼐	nai:nd	10
 翟	di:yv	10
 翟	zhai:yv	10
-瞀	mao:mm	10
+瞀	mao:om	10
 鹜	wu:nm	10
 骠	biao:mp	10
 骠	piao:mp	10
@@ -6411,9 +6410,9 @@ vocabulary: essay-zh-hans
 龉	yu:iw	10
 龊	chuo:iz	10
 觑	qu:jx	10
-瞌	ke:mh	11
-瞋	chen:mv	10
-瞑	ming:ml	10
+瞌	ke:oh	11
+瞋	chen:ov	10
+瞑	ming:ob	10
 嘭	peng:kp	10
 噎	ye:ky	10
 噶	ga:kg	10
@@ -6499,7 +6498,7 @@ vocabulary: essay-zh-hans
 齑	ji:wa	10
 羯	jie:yh	10
 羰	tang:yt	10
-𥻗	cha:mv	10
+𥻗	cha:mi	10
 遴	lin:zl	10
 糌	zan:mo	10
 糍	ci:mz	10
@@ -6597,7 +6596,7 @@ vocabulary: essay-zh-hans
 臻	zhen:vq	10
 遽	ju:zj	10
 氅	chang:mi	10
-瞟	piao:mp	10
+瞟	piao:op	10
 瞠	cheng:mt	10
 瞰	kan:mg	10
 嚄	huo:kh	10
@@ -7053,7 +7052,7 @@ vocabulary: essay-zh-hans
 氾	fan:de	5
 忉	dao:xd	5
 宄	gui:bj	5
-𬣙	yu:yy	5
+𬣙	xu:yy	5
 讱	ren:yr	5
 扞	han:fg	5
 圲	qian:tq	5
@@ -7062,8 +7061,8 @@ vocabulary: essay-zh-hans
 芃	peng:cf	5
 朳	ba:mb	5
 朸	li:ml	5
-𨙸	qi:ve	5
-𨙸	zhi:ve	5
+𨙸	qi:ev	5
+𨙸	zhi:ev	5
 邨	cun:et	5
 吒	zha:kq	5
 吖	ya:ky	5
@@ -7083,25 +7082,25 @@ vocabulary: essay-zh-hans
 冱	hu:dh	5
 邡	fang:ef	5
 闫	yan:ms	5
-𬇕	#N/A	5
+𬇕	wan:dw	5
 汋	zhuo:du	5
 䜣	xin:yj	5
 讻	xiong:yx	5
-𬣞	#N/A	5
+𬣞	zhu:yb	5
 孖	ma:zz	5
 孖	zi:zz	5
-𬘓	#N/A	5
+𬘓	xun:sp	5
 纩	kuang:sg	5
 玒	hong:wg	5
 玓	di:wu	5
 玘	qi:wj	5
 玚	chang:wy	5
 刬	chan:dj	5
-𫭟	#N/A	5
+𫭟	qu:tq	5
 坜	li:tl	5
 坉	tun:tt	5
 扽	den:ft	5
-𫭢	#N/A	5
+𫭢	lun:tl	5
 坋	fen:tf	5
 扺	zhi:fu	5
 㧑	hui:fw	5
@@ -7113,7 +7112,7 @@ vocabulary: essay-zh-hans
 芘	bi:cb	5
 芴	wu:cw	5
 芠	wen:cw	5
-𫇭	#N/A	5
+𫇭	wei:cw	5
 芤	kou:ck	5
 杕	duo:md	5
 杙	yi:my	5
@@ -7123,7 +7122,7 @@ vocabulary: essay-zh-hans
 尪	wang:yw	5
 尨	pang:ap	5
 轪	dai:id	5
-𫐄	yue:iw	5
+𫐄	yue:ia	5
 坒	bi:bt	5
 芈	mi:aa	5
 旴	xu:oy	5
@@ -7131,7 +7130,7 @@ vocabulary: essay-zh-hans
 呙	guo:kn	5
 㕮	fu:kf	5
 岍	qian:uk	5
-𫵷	#N/A	5
+𫵷	li:ul	5
 岠	ju:uj	5
 岜	ba:ub	5
 呇	qi:uk	5
@@ -7153,21 +7152,21 @@ vocabulary: essay-zh-hans
 𣲗	wei:dw	5
 沄	yun:dy	5
 沘	bi:db	5
-𬇙	#N/A	5
+𬇙	bei:db	5
 汭	rui:dn	5
 㳇	fu:df	5
 沇	yan:dy	5
 忮	zhi:xv	5
 忳	zhun:xt	5
 忺	xian:xq	5
-𬣡	#N/A	5
+𬣡	jian:dy	5
 祃	ma:um	5
 诇	xiong:yj	5
 邲	bi:eb	5
 诎	qu:yi	5
 诐	bi:yp	5
 屃	xi:ub	5
-𫸩	#N/A	5
+𫸩	kou:gq	5
 岊	jie:ub	5
 阽	dian:ev	5
 阽	yan:ev	5
@@ -7175,13 +7174,13 @@ vocabulary: essay-zh-hans
 阼	zuo:ev	5
 妧	yuan:ny	5
 妘	yun:ny	5
-𨚕	bian:eq	5
+𨚕	bian:ec	5
 纮	hong:sh	5
 驲	ri:mo	5
-𫘜	#N/A	5
+𫘜	wen:gw	5
 纻	zhu:sa	5
-𬘘	#N/A	5
-𫘝	jue:mj	5
+𬘘	dan:sy	5
+𫘝	jue:mg	5
 纼	zhen:sy	5
 玤	bang:wf	5
 玞	fu:wf	5
@@ -7196,7 +7195,7 @@ vocabulary: essay-zh-hans
 坽	ling:tl	5
 弆	ju:cq	5
 耵	ding:ed	5
-䢼	gong:ge	5
+䢼	gong:eg	5
 𦭜	zhi:cv	5
 茋	di:cd	5
 苧	ning:cn	5
@@ -7209,9 +7208,9 @@ vocabulary: essay-zh-hans
 矼	qiang:ug	5
 矻	ku:uq	5
 匼	ke:kh	5
-𬨂	#N/A	5
-𬀩	#N/A	5
-𬀪	#N/A	5
+𬨂	qi:iu	5
+𬀩	wei:ow	5
+𬀪	xian:oj	5
 旿	wu:ow	5
 昇	sheng:ou	5
 昄	ban:of	5
@@ -7228,7 +7227,7 @@ vocabulary: essay-zh-hans
 峂	tong:ud	5
 㟃	si:us	5
 囷	qun:kh	5
-𬬩	#N/A	5
+𬬩	yi:jg	5
 钐	shan:jp	5
 钔	men:jm	5
 钖	yang:jy	5
@@ -7274,42 +7273,42 @@ vocabulary: essay-zh-hans
 穸	xi:bx	5
 祋	dui:uu	5
 祊	beng:uf	5
-𫍣	#N/A	5
-𬣳	#N/A	5
-𬩽	#N/A	5
+𫍣	tong:yt	5
+𬣳	hen:yg	5
+𬩽	xun:ex	5
 鸤	shi:nu	5
 弢	tao:gy	5
 弨	chao:gv	5
 陑	er:ee	5
-𬮿	#N/A	5
+𬮿	gai:eq	5
 陎	shu:ev	5
-𬯀	#N/A	5
+𬯀	ji:eq	5
 卺	jin:ei	5
 乸	na:ym	5
 妭	bo:nb	5
 姈	ling:nl	5
-𫰛	#N/A	5
+𫰛	xing:ng	5
 迳	jing:zg	5
 叕	zhuo:uu	5
 叕	yi:uu	5
 叕	li:uu	5
 叕	jue:uu	5
-𬳵	#N/A	5
+𬳵	pi:mp	5
 驵	zang:mq	5
-𬳶	#N/A	5
-䌹	jiong:sj	5
+𬳶	jiong:mt	5
+䌹	jiong:st	5
 驺	zou:mi	5
-𫠊	#N/A	5
+𫠊	xuan:mx	5
 绋	fu:sf	5
 绐	dai:st	5
 砉	hua:fu	5
 砉	xu:fu	5
 耔	zi:lz	5
-㛃	jie:nq	5
+㛃	jie:nf	5
 玶	ping:wp	5
 珇	zu:wq	5
 珅	shen:wu	5
-𬍛	#N/A	5
+𬍛	li:wl	5
 珋	liu:wm	5
 玹	xuan:wx	5
 珌	bi:wb	5
@@ -7323,7 +7322,7 @@ vocabulary: essay-zh-hans
 埏	yan:ty	5
 垍	ji:tz	5
 耇	gou:lj	5
-鿍	#N/A	5
+鿍	gang:tj	5
 垎	he:tg	5
 垴	nao:tx	5
 垟	yang:ty	5
@@ -7342,11 +7341,11 @@ vocabulary: essay-zh-hans
 茽	zhong:cv	5
 荄	gai:ch	5
 茺	chong:ci	5
-𬜬	#N/A	5
+𬜬	man:cw	5
 荓	ping:cb	5
 茳	jiang:cj	5
-𦰡	#N/A	5
-𦰡	#N/A	5
+𦰡	na:cn	5
+𦰡	nuo:cn	5
 茛	gen:cg	5
 荭	hong:ch	5
 㭕	qu:mq	5
@@ -7359,7 +7358,7 @@ vocabulary: essay-zh-hans
 郚	wu:ew	5
 剅	dou:dd	5
 剅	lou:dd	5
-䴓	shi:uy	5
+䴓	shi:nb	5
 迺	nai:zx	5
 厖	mang:il	5
 砆	fu:uf	5
@@ -7373,9 +7372,9 @@ vocabulary: essay-zh-hans
 轹	li:il	5
 轺	yao:iv	5
 昺	bing:ob	5
-𪾢	xian:mj	5
+𪾢	xian:oj	5
 昽	long:ol	5
-盷	xian:my	5
+盷	xian:oy	5
 咡	er:ke	5
 咺	xuan:kg	5
 昳	die:ou	5
@@ -7394,16 +7393,16 @@ vocabulary: essay-zh-hans
 峘	huan:ug	5
 耑	zhuan:ue	5
 峛	li:ul	5
-𪨰	#N/A	5
+𪨰	qu:uq	5
 峗	wei:uw	5
 峧	jiao:uj	5
 帡	ping:jb	5
 钘	xing:jk	5
 𫓧	fu:jf	5
 钜	ju:jj	5
-𬬮	#N/A	5
-𬬱	#N/A	5
-𬬭	#N/A	5
+𬬮	chang:ji	5
+𬬱	jin:jj	5
+𬬭	lun:jl	5
 钪	kang:jk	5
 钬	huo:jh	5
 钭	dou:jd	5
@@ -7423,7 +7422,7 @@ vocabulary: essay-zh-hans
 鸧	cang:nc	5
 䏡	shi:oj	5
 胠	qu:oq	5
-𦙶	#N/A	5
+𦙶	gu:og	5
 胈	ba:ob	5
 胩	ka:ok	5
 胣	chi:oy	5
@@ -7476,10 +7475,10 @@ vocabulary: essay-zh-hans
 枲	xi:mt	5
 绖	die:sv	5
 骃	yin:my	5
-𬘡	#N/A	5
-𬳽	#N/A	5
-𬘩	#N/A	5
-𫄧	#N/A	5
+𬘡	yin:sy	5
+𬳽	shen:mx	5
+𬘩	ting:sy	5
+𫄧	yan:sy	5
 彖	tuan:ad	5
 骉	biao:mm	5
 恝	jia:xd	5
@@ -7489,17 +7488,17 @@ vocabulary: essay-zh-hans
 琊	ya:wx	5
 玼	cou:wc	5
 珖	guang:wg	5
-𪟝	#N/A	5
+𪟝	ji:lz	5
 珽	ting:wt	5
 珦	xiang:wx	5
 珫	chong:wi	5
 珒	jin:wy	5
-𬍤	#N/A	5
+𬍤	xun:wx	5
 珢	gen:wg	5
 珢	yin:wg	5
 珕	li:wl	5
 珝	xu:wy	5
-𫭼	#N/A	5
+𫭼	lao:tl	5
 埗	bu:tb	5
 垾	an:th	5
 垾	han:th	5
@@ -7511,7 +7510,7 @@ vocabulary: essay-zh-hans
 莰	kan:ck	5
 茝	chai:ci	5
 茝	zhi:ci	5
-𬜯	#N/A	5
+𬜯	liang:cl	5
 鄀	ruo:er	5
 莶	xian:ca	5
 莝	cuo:cz	5
@@ -7519,7 +7518,7 @@ vocabulary: essay-zh-hans
 莙	jun:cj	5
 栻	shi:mu	5
 桠	ya:my	5
-𬂩	#N/A	5
+𬂩	jia:mj	5
 桄	guang:mg	5
 梠	lv:ml	5
 栴	zhan:md	5
@@ -7527,7 +7526,7 @@ vocabulary: essay-zh-hans
 栒	xun:mx	5
 酎	zhou:yc	5
 酏	yi:yy	5
-𫠆	#N/A	5
+𫠆	kui:vy	5
 砵	e:ub	5
 砠	zu:uq	5
 砫	zhu:uv	5
@@ -7539,7 +7538,7 @@ vocabulary: essay-zh-hans
 𨐈	guang:ig	5
 辀	zhou:iv	5
 辁	quan:iq	5
-𬌗	#N/A	5
+𬌗	he:yh	5
 剕	fei:df	5
 赀	zi:bc	5
 哢	long:kn	5
@@ -7556,22 +7555,22 @@ vocabulary: essay-zh-hans
 蚄	bang:if	5
 蚄	fang:if	5
 蚆	ba:ib	5
-𫑡	#N/A	5
+𫑡	meng:em	5
 帱	dao:ju	5
 帱	chou:ju	5
 崁	kan:uk	5
 峿	yu:uw	5
-𪨶	#N/A	5
+𪨶	she:ui	5
 崄	xian:ua	5
 帨	shui:jd	5
 崀	lang:ul	5
 赆	jin:bj	5
-𬬸	#N/A	5
+𬬸	shu:ju	5
 钷	po:jk	5
-𬬻	#N/A	5
-𬬹	#N/A	5
-𬬿	#N/A	5
-𬭁	#N/A	5
+𬬻	lu:jl	5
+𬬹	shen:ju	5
+𬬿	zhao:jv	5
+𬭁	mu:jm	5
 眚	sheng:mu	5
 甡	shen:uu	5
 笫	zi:vz	5
@@ -7582,7 +7581,7 @@ vocabulary: essay-zh-hans
 倕	zhui:ri	5
 倞	liang:rj	5
 倞	jing:rj	5
-𫢸	#N/A	5
+𫢸	dan:rd	5
 倓	tan:ry	5
 倧	zong:rz	5
 衃	pei:xb	5
@@ -7616,7 +7615,7 @@ vocabulary: essay-zh-hans
 烔	tong:ht	5
 烶	ting:ht	5
 烻	yan:hy	5
-𬊈	#N/A	5
+𬊈	xun:hx	5
 涍	xiao:dx	5
 浡	bo:db	5
 浭	geng:dg	5
@@ -7635,7 +7634,7 @@ vocabulary: essay-zh-hans
 悈	ke:xj	5
 悃	kun:xk	5
 悢	liang:xl	5
-𬒈	#N/A	5
+𬒈	que:du	5
 宧	yi:bi	5
 窅	yao:bm	5
 窊	wa:bg	5
@@ -7651,7 +7650,7 @@ vocabulary: essay-zh-hans
 隺	que:bv	5
 堲	ji:tj	5
 疍	dan:pd	5
-𨺙	ni:en	5
+𨺙	ni:ee	5
 陴	pi:eb	5
 烝	zheng:di	5
 砮	nu:un	5
@@ -7661,12 +7660,12 @@ vocabulary: essay-zh-hans
 翀	chong:yv	5
 翂	fen:yf	5
 剟	duo:du	5
-𬳿	#N/A	5
+𬳿	tu2:my	5
 𫄨	chi:sx	5
 绤	xi:sg	5
 骍	xing:mx	5
-𬘫	#N/A	5
-䂮	lve:u	5
+𬘫	huan:sw	5
+䂮	lve:uf	5
 琎	jin:wj	5
 珸	wu:ww	5
 珵	ting:wi	5
@@ -7683,11 +7682,11 @@ vocabulary: essay-zh-hans
 埫	chong:tu	5
 堌	gu:tg	5
 晢	zhe:ov	5
-𫮃	#N/A	5
+𫮃	shan:td	5
 掞	shan:fy	5
 埪	kong:tk	5
 壸	kun:uy	5
-㙍	duo:ty	5
+㙍	duo:tv	5
 聍	ning:en	5
 菝	ba:cb	5
 萚	tuo:cz	5
@@ -7695,14 +7694,14 @@ vocabulary: essay-zh-hans
 莿	ci:cc	5
 䓫	qi:cq	5
 勚	yi:lb	5
-䓬	#N/A	5
+䓬	zhuo:cv	5
 萆	bi:cb	5
 菂	di:cd	5
 菍	nian:cn	5
 菍	ren:cn	5
 菼	tan:cy	5
 萣	ding:cd	5
-䓨	ying:cy	5
+䓨	ying:cf	5
 菉	lu:cl	5
 䓛	qu:cq	5
 梼	tao:mu	5
@@ -7716,14 +7715,14 @@ vocabulary: essay-zh-hans
 敔	yu:ww	5
 厣	yan:ij	5
 硔	hong:ug	5
-鿎	#N/A	5
-鿎	#N/A	5
+鿎	da:ud	5
+鿎	ta:ud	5
 硙	ai:uq	5
 硚	qiao:uq	5
 硊	hui:uw	5
 硍	yin:ug	5
 勔	mian:lm	5
-䴕	lie:lm	5
+䴕	lie:nl	5
 龁	he:iq	5
 逴	chuo:zv	5
 唪	feng:kf	5
@@ -7732,15 +7731,15 @@ vocabulary: essay-zh-hans
 㫰	lang:ol	5
 晙	jun:oj	5
 畤	zhi:ts	5
-𬱖	#N/A	5
+𬱖	di:yy	5
 趼	jian:zk	5
 跂	qi:zv	5
 蛃	bing:ib	5
 蚲	ping:ip	5
-𬟽	#N/A	5
+𬟽	dong:id	5
 蚺	ran:ir	5
 啴	chan:kd	5
-䎃	ran:ry	5
+䎃	ran:yr	5
 崧	song:us	5
 崟	yin:uj	5
 崞	guo:ux	5
@@ -7748,10 +7747,10 @@ vocabulary: essay-zh-hans
 崌	ju:uj	5
 崡	han:uh	5
 铏	xing:jx	5
-𫓯	#N/A	5
-𫟹	#N/A	5
+𫓯	ji:jy	5
+𫟹	hong:jg	5
 铕	you:jy	5
-𫟼	#N/A	5
+𫟼	da:jd	5
 铖	cheng:ji	5
 铘	ye:jx	5
 铚	zhi:jv	5
@@ -7781,7 +7780,7 @@ vocabulary: essay-zh-hans
 悆	yu:xy	5
 鄃	shu:ey	5
 瓻	chi:wx	5
-䝙	chu:bq	5
+䝙	chu:vq	5
 脶	luo:og	5
 脞	cuo:oz	5
 脟	pao:oc	5
@@ -7791,13 +7790,13 @@ vocabulary: essay-zh-hans
 猊	ni:qe	5
 猄	jing:qj	5
 觖	jue:jd	5
-𠅤	#N/A	5
+𠅤	xi:ws	5
 庱	cheng:gl	5
 庼	qing:gq	5
 庳	bei:gb	5
 庳	bi:gb	5
 痓	chi:bv	5
-䴔	jiao:jn	5
+䴔	jiao:nj	5
 竫	jing:lv	5
 堃	kun:tf	5
 阌	wen:mu	5
@@ -7808,33 +7807,33 @@ vocabulary: essay-zh-hans
 焌	jun:hj	5
 焌	qu:hj	5
 淏	hao:dh	5
-𬇹	#N/A	5
+𬇹	guo:dg	5
 淟	tian:dd	5
 淜	ping:dp	5
 淴	hu:dh	5
 淯	yu:dy	5
 湴	ban:db	5
 涴	wo:dw	5
-𬍡	#N/A	5
-㥄	ling:xl	5
+𬍡	dang:ty	5
+㥄	ling:xt	5
 惛	hun:xh	5
 惔	tan:xy	5
 悰	cong:xz	5
 惙	chuo:xu	5
 寁	zan:bj	5
 逭	huan:zg	5
-𬤇	#N/A	5
-𫍯	#N/A	5
+𬤇	yin:yt	5
+𫍯	xian:yx	5
 袼	ge:yg	5
 裈	kun:yj	5
 祲	jin:uy	5
-𬤊	#N/A	5
+𬤊	shi:yu	5
 𫍲	xiao:ys	5
 谞	xu:yx	5
 艴	fu:fs	5
 弸	peng:gp	5
 弶	jiang:gj	5
-𬯎	#N/A	5
+𬯎	tui:eg	5
 隃	yu:ey	5
 婞	xing:nx	5
 娵	ju:nq	5
@@ -7848,16 +7847,16 @@ vocabulary: essay-zh-hans
 婤	zhou:nv	5
 婘	quan:nj	5
 婠	wan:ng	5
-𬘬	#N/A	5
-𬘭	#N/A	5
-𬘭	#N/A	5
-𬴂	#N/A	5
-𫘦	#N/A	5
+𬘬	qian:sq	5
+𬘭	chen:sl	5
+𬘭	lin:sl	5
+𬴂	fei:mf	5
+𫘦	tao:mt	5
 绹	tao:st	5
-𫟅	#N/A	5
-𬘯	#N/A	5
+𫟅	jing:sj	5
+𬘯	zhun:sx	5
 骕	su:ms	5
-𫘧	#N/A	5
+𫘧	lu:ml	5
 絜	xie:sd	5
 珷	wu:ww	5
 琲	bei:wf	5
@@ -7876,7 +7875,7 @@ vocabulary: essay-zh-hans
 塅	duan:td	5
 堠	hou:th	5
 絷	zhi:sv	5
-𪣻	#N/A	5
+𪣻	lou:tl	5
 𡎚	pian:tb	5
 葜	qia:cq	5
 惎	ji:qx	5
@@ -7903,7 +7902,7 @@ vocabulary: essay-zh-hans
 棫	yu:mh	5
 椓	zhuo:md	5
 椑	bei:mb	5
-𬃊	#N/A	5
+𬃊	zhi:mv	5
 鹀	wu:nw	5
 椆	zhou:mv	5
 棓	pou:mk	5
@@ -7911,7 +7910,7 @@ vocabulary: essay-zh-hans
 棪	yan:my	5
 椀	wan:mw	5
 楗	jian:mj	5
-𬷕	#N/A	5
+𬷕	bu:nb	5
 甦	su:gu	5
 酦	po:yf	5
 觌	di:jm	5
@@ -7924,10 +7923,10 @@ vocabulary: essay-zh-hans
 辌	liang:ij	5
 棐	fei:mf	5
 龂	yin:ij	5
-𬹼	#N/A	5
+𬹼	xie:ij	5
 黹	zhi:sd	5
 牚	cheng:dy	5
-睎	xi:mx	5
+睎	xi:ox	5
 晫	zhuo:ov	5
 晪	tian:od	5
 晱	shan:oy	5
@@ -7938,28 +7937,28 @@ vocabulary: essay-zh-hans
 喤	huang:kh	5
 崶	feng:uf	5
 嵁	zhan:uu	5
-𫶇	#N/A	5
+𫶇	die:ud	5
 崾	yao:uy	5
 嵅	han:ux	5
 崿	e:ue	5
 嵚	qin:uq	5
 翙	hui:ys	5
-𫖮	#N/A	5
+𫖮	yi:yq	5
 圌	chui:ke	5
 圐	ku:kf	5
 赑	bi:bb	5
 淼	miao:uu	5
 赒	zhou:bv	5
-鿏	#N/A	5
+鿏	mai:jm	5
 铹	lao:jl	5
-𬭊	#N/A	5
+𬭊	du:jd	5
 铽	te:jt	5
 𨱇	qiu:jq	5
-𫓶	#N/A	5
+𫓶	xuan:jj	5
 锊	lue:jc	5
 锍	liu:ji	5
 锎	kai:jk	5
-𬭎	#N/A	5
+𬭎	hong:jh	5
 锓	qin:jy	5
 犇	ben:nn	5
 颋	ting:yt	5
@@ -7976,35 +7975,35 @@ vocabulary: essay-zh-hans
 傕	jue:rv	5
 舾	xi:vx	5
 畬	yu:ty	5
-𫖯	#N/A	5
+𫖯	fu:yv	5
 脿	biao:ob	5
 腘	guo:og	5
 䐃	jun:ok	5
 䐃	zhun:ok	5
 腙	zong:oz	5
 腒	ju:oj	5
-𬱟	#N/A	5
+𬱟	wei:yw	5
 鲃	ba:yb	5
 猰	ya:qq	5
-𫛭	#N/A	5
+𫛭	kuang:nk	5
 猯	tuan:qe	5
-㺄	yu:ok	5
+㺄	yu:qy	5
 馉	gu:ug	5
 凓	li:dl	5
 鄗	hao:eg	5
-𫷷	#N/A	5
+𫷷	xin:gq	5
 廋	sou:gs	5
 廆	wei:gg	5
 鄌	tang:et	5
 粢	zi:mc	5
 遆	ti:zd	5
 旐	zhao:fv	5
-𬮱	#N/A	5
+𬮱	yin:mt	5
 焞	tun:hx	5
-𬊤	#N/A	5
+𬊤	chan:hd	5
 欻	xu:qy	5
 欻	chua:qy	5
-𣸣	fen:df	5
+𣸣	fen:db	5
 溚	da:dd	5
 溚	ta:dd	5
 溁	ying:dr	5
@@ -8039,7 +8038,7 @@ vocabulary: essay-zh-hans
 媄	mei:nm	5
 毵	san:mc	5
 矞	yu:mk	5
-𬴃	#N/A	5
+𬴃	huo:mu	5
 𫘨	ti:mu	5
 缊	yun:sw	5
 缐	xian:sq	5
@@ -8048,7 +8047,7 @@ vocabulary: essay-zh-hans
 瑓	lian:wj	5
 瑅	ti:wu	5
 瑆	xing:wx	5
-䴖	jing:qn	5
+䴖	jing:nq	5
 瑖	duan:wd	5
 瑝	huang:wh	5
 瑔	quan:wq	5
@@ -8089,25 +8088,25 @@ vocabulary: essay-zh-hans
 椸	yi:mu	5
 楙	mao:mm	5
 歅	yin:qt	5
-𬪩	#N/A	5
+𬪩	nong:yn	5
 碃	qing:uq	5
 碏	xi:ux	5
-𬒔	#N/A	5
+𬒔	ken:uk	5
 碈	min:uh	5
 碈	wen:uh	5
 䃅	di:ud	5
 硿	kong:uk	5
 鄠	hu:ek	5
 辒	wen:iw	5
-𬨎	#N/A	5
+𬨎	you:iy	5
 𫐓	bu:ir	5
 龆	tiao:iv	5
 觜	zi:jc	5
 觜	zui:jc	5
-䣘	tang:te	5
+䣘	tang:et	5
 暕	lan:oj	5
 鹍	kun:nk	5
-𫫇	#N/A	5
+𫫇	e:ke	5
 㬊	huan:oa	5
 暅	xuan:oh	5
 暅	yuan:oh	5
@@ -8118,19 +8117,19 @@ vocabulary: essay-zh-hans
 赗	feng:bm	5
 骱	jie:gj	5
 锖	qiang:jq	5
-𫓹	#N/A	5
+𫓹	ji:jq	5
 锘	nuo:jr	5
 锳	ying:jy	5
 锧	zhi:jv	5
 锪	huo:jh	5
-𬭚	#N/A	5
+𬭚	chun:jh	5
 锫	pei:jk	5
 锬	tan:jy	5
-𬭛	#N/A	5
+𬭛	bo:jb	5
 稑	lu:ht	5
 稙	zhi:hv	5
 䅟	can:hc	5
-𬕂	#N/A	5
+𬕂	long:vg	5
 筻	gang:vg	5
 筼	yun:vy	5
 筶	gao:vg	5
@@ -8149,9 +8148,9 @@ vocabulary: essay-zh-hans
 鲉	you:yy	5
 鲊	zha:yv	5
 鲌	ba:yb	5
-䲟	yin:yy	5
-𬶋	#N/A	5
-𬶍	#N/A	5
+䲟	yin:yn	5
+𬶋	ju:yj	5
+𬶍	tuo:yt	5
 鲏	pi:yp	5
 雊	gou:vj	5
 猺	yao:qf	5
@@ -8169,7 +8168,7 @@ vocabulary: essay-zh-hans
 麀	you:lb	5
 鄣	zhang:ev	5
 阘	da:my	5
-𫔶	#N/A	5
+𫔶	nie:mp	5
 煁	chen:hu	5
 煃	kui:hk	5
 煴	yun:hw	5
@@ -8200,19 +8199,19 @@ vocabulary: essay-zh-hans
 禒	xian:ut	5
 谫	jian:yj	5
 鹔	su:ns	5
-𫖳	#N/A	5
+𫖳	jun:yj	5
 愍	min:xw	5
 嫄	yuan:ny	5
 媱	yao:nf	5
 戤	gai:gy	5
 勠	lu:ll	5
 戣	kui:gg	5
-𫘪	#N/A	5
-𫘬	#N/A	5
+𫘪	yuan:my	5
+𫘬	xi:mp	5
 缞	cui:su	5
 耤	jie:lx	5
 瑧	zhen:wq	5
-𫞩	#N/A	5
+𫞩	men:wm	5
 瑨	jin:wj	5
 瑱	zhen:wv	5
 瑷	ai:wa	5
@@ -8228,7 +8227,7 @@ vocabulary: essay-zh-hans
 𡐓	kang:tk	5
 墚	liang:tl	5
 撖	han:fg	5
-𪤗	#N/A	5
+𪤗	liao:tm	5
 靽	ban:gb	5
 鞁	bei:gp	5
 蔌	su:cq	5
@@ -8245,7 +8244,7 @@ vocabulary: essay-zh-hans
 槜	zui:mj	5
 榍	xie:mx	5
 疐	zhi:pt	5
-𬸘	#N/A	5
+𬸘	yan:ny	5
 酺	pu:yf	5
 酾	shai:yl	5
 酾	shi:yl	5
@@ -8253,18 +8252,18 @@ vocabulary: essay-zh-hans
 酴	tu:yy	5
 碶	qi:uq	5
 䃎	zha:ud	5
-𬒗	#N/A	5
+𬒗	lan:ul	5
 碨	wei:uw	5
 𥔲	e:ue	5
 碹	xuan:ux	5
 碥	bian:ub	5
 劂	jue:dj	5
-𫚖	#N/A	5
-䴗	ju:no	5
+𫚖	ci:yc	5
+䴗	ju:nq	5
 夥	huo:gd	5
 瞍	sou:ms	5
 鹖	he:nh	5
-㬎	xian:os	5
+㬎	xian:ho	5
 跽	ji:zj	5
 蜾	guo:ig	5
 幖	biao:jp	5
@@ -8274,7 +8273,7 @@ vocabulary: essay-zh-hans
 锺	zhong:jv	5
 锼	sou:js	5
 锽	huang:jh	5
-𬭤	#N/A	5
+𬭤	hou:jh	5
 锾	huan:jy	5
 锿	ai:ja	5
 镃	zi:jz	5
@@ -8299,13 +8298,13 @@ vocabulary: essay-zh-hans
 鲗	ze:yz	5
 鲘	hou:yh	5
 鲙	kuai:yh	5
-𬶐	#N/A	5
-𬶏	#N/A	5
-𩽾	an:yj	5
+𬶐	zhao:yv	5
+𬶏	wei:yw	5
+𩽾	an:ya	5
 夐	xiong:dw	5
 獍	jing:qj	5
 飗	liu:fl	5
-𬸚	#N/A	5
+𬸚	yue:ny	5
 凘	si:ds	5
 廑	jin:gj	5
 廑	qin:gj	5
@@ -8326,7 +8325,7 @@ vocabulary: essay-zh-hans
 漴	chong:di	5
 漴	chuang:di	5
 漴	zhuang:di	5
-㽏	gan:gj	5
+㽏	gan:gh	5
 漈	ji:dj	5
 漋	long:dl	5
 漻	xiao:dl	5
@@ -8334,7 +8333,7 @@ vocabulary: essay-zh-hans
 窬	yu:by	5
 窭	ju:bl	5
 㮾	lang:ml	5
-𬤝	#N/A	5
+𬤝	hui:yh	5
 褕	yu:yy	5
 禛	zhen:uv	5
 禚	zhuo:ug	5
@@ -8343,8 +8342,8 @@ vocabulary: essay-zh-hans
 嫭	hu:nh	5
 嫜	zhang:nv	5
 嫪	lao:nl	5
-𬙂	#N/A	5
-㻬	tu:wy	5
+𬙂	yan:sy	5
+㻬	tu:wk	5
 麹	qu:mj	5
 璆	qiu:wl	5
 漦	li:ui	5
@@ -8389,7 +8388,7 @@ vocabulary: essay-zh-hans
 镈	bo:jc	5
 镋	tang:jd	5
 镎	na:jn	5
-𬭩	#N/A	5
+𬭩	weng:jw	5
 镕	rong:jr	5
 稹	zhen:hv	5
 儇	xuan:rh	5
@@ -8426,14 +8425,14 @@ vocabulary: essay-zh-hans
 憕	cheng:xd	5
 憕	deng:xd	5
 憕	zheng:xd	5
-𬸣	#N/A	5
+𬸣	xian:nb	5
 戭	you:gy	5
 褯	jie:yx	5
 禤	xuan:uy	5
-𫍽	#N/A	5
+𫍽	xuan:yh	5
 嫽	liao:nl	5
 遹	yu:zk	5
-𬴊	#N/A	5
+𬴊	lin:mm	5
 璥	jing:wj	5
 璲	sui:ws	5
 璒	deng:wd	5
@@ -8444,8 +8443,8 @@ vocabulary: essay-zh-hans
 鞔	man:gm	5
 鞔	men:gm	5
 黇	tian:hv	5
-𬞟	#N/A	5
-𬞟	#N/A	5
+𬞟	pin:cp	5
+𬞟	ping:cp	5
 蕗	lu:cl	5
 薢	xie:cj	5
 蕹	weng:cv	5
@@ -8459,15 +8458,15 @@ vocabulary: essay-zh-hans
 磜	qi:uj	5
 磜	qie:uj	5
 豮	fen:ub	5
-𫟦	#N/A	5
-𬺈	#N/A	5
-𫠜	#N/A	5
+𫟦	sui:is	5
+𬺈	yi:iq	5
+𫠜	ni:ir	5
 鹾	cuo:li	5
 虤	yan:hh	5
 暿	xi:ox	5
 曌	zhao:km	5
 曈	tong:ot	5
-㬚	che:oi	5
+㬚	che:ow	5
 蹅	cha:zi	5
 踶	di:zu	5
 䗛	xiu:ix	5
@@ -8475,12 +8474,12 @@ vocabulary: essay-zh-hans
 疁	liu:tl	5
 㠓	meng:um	5
 幪	meng:jm	5
-𪩘	#N/A	5
+𪩘	yan:ux	5
 嶦	shan:uv	5
 嶦	zhan:uv	5
-𬭬	#N/A	5
+𬭬	wei:jh	5
 𨱑	huang:jh	5
-𬭯	#N/A	5
+𬭯	pie:jb	5
 馞	po:xb	5
 穄	ji:hj	5
 篚	fei:vf	5
@@ -8500,7 +8499,7 @@ vocabulary: essay-zh-hans
 亸	duo:dx	5
 癀	huang:bh	5
 瘭	biao:bp	5
-𬸦	#N/A	5
+𬸦	zhuo:nz	5
 羱	yuan:yy	5
 糒	bei:my	5
 燋	qiao:hj	5
@@ -8522,7 +8521,7 @@ vocabulary: essay-zh-hans
 嬛	huan:nh	5
 鹨	liu:nl	5
 翯	he:yg	5
-𫄷	#N/A	5
+𫄷	yi:sy	5
 璱	se:ws	5
 𤩽	huan:wx	5
 璬	jiao:wj	5
@@ -8543,15 +8542,15 @@ vocabulary: essay-zh-hans
 蹐	ji:zj	5
 蟏	xiao:ix	5
 㘎	han:km	5
-𬭳	#N/A	5
+𬭳	xi:jx	5
 镤	pu:jd	5
-𬭶	#N/A	5
-𫔍	#N/A	5
+𬭶	hei:jh	5
+𫔍	fan:jf	5
 镥	lu:jl	5
 镨	pu:jp	5
-𬭸	#N/A	5
+𬭸	lin:jm	5
 𨱔	zun:jz	5
-𬭼	#N/A	5
+𬭼	sui:js	5
 𫔎	jue:jj	5
 矰	zeng:uc	5
 穙	pu:hd	5
@@ -8564,12 +8563,12 @@ vocabulary: essay-zh-hans
 魋	tui:gv	5
 斶	chu:ji	5
 艚	cao:vc	5
-𬸪	#N/A	5
+𬸪	fan:nf	5
 谿	xi:gx	5
 䲠	chun:yi	5
-𬶟	#N/A	5
+𬶟	la:yc	5
 鲾	bi:yf	5
-𬶠	#N/A	5
+𬶠	lian:yj	5
 鲿	chang:yi	5
 鳁	wen:yw	5
 鳂	wei:yw	5
@@ -8580,7 +8579,7 @@ vocabulary: essay-zh-hans
 馘	guo:uh	5
 襕	lan:yj	5
 襚	sui:ys	5
-𬶨	#N/A	5
+𬶨	ji:yj	5
 螱	wei:iw	5
 甓	pi:wb	5
 嬬	ru:nx	5
@@ -8593,7 +8592,7 @@ vocabulary: essay-zh-hans
 爇	ruo:cr	5
 鞳	ta:gd	5
 鞮	di:gu	5
-𬟁	#N/A	5
+𬟁	yi:cn	5
 藟	lei:cl	5
 藦	mo:cm	5
 藨	biao:cb	5
@@ -8602,7 +8601,7 @@ vocabulary: essay-zh-hans
 黡	yan:hy	5
 礞	meng:um	5
 礌	lei:ul	5
-𥖨	zao:uz	5
+𥖨	zao:um	5
 蹢	di:zd	5
 蹢	zhi:zd	5
 蹜	su:zs	5
@@ -8621,7 +8620,7 @@ vocabulary: essay-zh-hans
 鼩	qu:uj	5
 皦	jiao:bj	5
 臑	nao:ox	5
-䲢	teng:ot	5
+䲢	teng:oy	5
 鳑	pang:yp	5
 鳒	jian:yj	5
 鹱	hu:ny	5
@@ -8637,7 +8636,7 @@ vocabulary: essay-zh-hans
 瀌	biao:db	5
 襜	chan:yv	5
 䴙	pi:np	5
-𬙊	#N/A	5
+𬙊	mo:sm	5
 嚭	pi:xf	5
 㰀	li:ml	5
 鬷	zong:gw	5
@@ -8649,7 +8648,7 @@ vocabulary: essay-zh-hans
 儳	chan:ri	5
 儴	xiang:rx	5
 鼗	tao:vg	5
-𬶭	#N/A	5
+𬶭	ji:yj	5
 𩾌	kang:yk	5
 鳚	wei:yw	5
 鳛	xi:yb	5
@@ -8682,7 +8681,7 @@ vocabulary: essay-zh-hans
 襫	shi:yb	5
 孅	xian:ng	5
 骦	shuang:mu	5
-𬙋	rang:sr	5
+𬙋	xiang:sx	5
 耰	you:ly	5
 𤫉	xie:wx	5
 瓖	xiang:wx	5
@@ -8709,15 +8708,16 @@ vocabulary: essay-zh-hans
 亹	men:dq	5
 籥	yue:vc	5
 鼷	xi:ux	5
-𫚭	#N/A	5
+𫚭	lie:yl	5
 玃	jue:qj	5
 醾	mi:ym	5
 齇	zha:bc	5
 觿	xi:jj	5
 蠼	qu:ij	5
-# 以下为非 《通用规范汉字表》中的汉字/字符	#N/A	
+
+# 以下为非 《通用规范汉字表》中的汉字/字符		
 艹	cao:aa	10
-〇	ling:z	10
+〇	ling:aa	10
 磺	huang 10:uh	
 嬅	hua:nh	5
 潶	hei:dh	5
@@ -9017,3 +9017,177 @@ vocabulary: essay-zh-hans
 驻扎	zhu:mv zha:fg
 自怨自艾	zi:pa yuan:xe zi:pa yi:ci
 罪行累累	zui:sf xing:rd lei:st lei:st
+十二个为一打	shi:aa er:aa ge:pa wei:dd yi:aa da:fd 
+结得又大又多	jie:sj de:rc you:ad da:ad you:ad duo:xx 
+挟起铺盖卷儿	xie:fj qi:zj pu:jf gai:my juan:ef er:pg 
+红呀么红似火	hong:sg ya:ky me:ps hong:sg si:ry huo:dd 
+过屠门而大嚼	guo:zc tu:uv men:dg er:aa dai:ad jiao:kc 
+我当你回去了	wo:pd dang:xx ni:re hui:kk qu:ts le:aa 
+五百张为一令	wu:aa bai:ab zhang:gi wei:dd yi:aa ling:rs 
+引种优良品种	yin:ga zhong:hv you:ry liang:dg pin:kk zhong:hv 
+为广大人民所	wei:dd guang:dp da:ad ren:pd min:ag suo:hj 
+为了解情况	wei:dd liao:aa jie:jn qing:xq kuang:dx 
+为了解群众	wei:dd liao:aa jee:jn qun:yj zhong:rc 
+为了解事实	wei:dd liao:aa jie:jn shi:aa shi:bt 
+着三不着两	zhao:ym san:aa bu:ad zhao:ym liang:ad 
+搂点儿干草	lou:fl dian:dv er:pg gan:aa cao:cz 
+把刀钢一钢	ba:fb dao:gp gang:jg yi:aa gang:jg 
+把皮子拉开	ba:fb pi:ad zi:aa la:fl kai:ac 
+把汤澄出来	ba:fb tang:dy deng:dd chu:ck lai:am 
+把账搂一搂	ba:fb zhang:bi lou:fl yi:aa lou:fl 
+绷了一道缝	beng:sp le:aa yi:aa dao:zu feng:sf 
+都快磨破了	dou:ev kuai:xd mo:mu po:up le:aa 
+敢为天下先	gan:aw wei:dd tian:ad xia:ab xian:en 
+好表现自己	hao:nz biao:fy xian:wj zi:pa ji:ag 
+更新一些的	gen:ad xin:jq yi:aa xie:ec de:bu 
+江陵一日还	jiang:dg ling:el yi:aa ri:or huan:zb 
+将门出虎子	jiang:dc men:dg chu:ck hu:hj zi:aa 
+金色的朝阳	jin:pa se:db de:bu zhao:ou yang:eo 
+流水鸣溅溅	liu:di shui:uv ming:kn jian:dj jian:dj 
+十斗为一石	shi:aa dou:du wei:dd yi:aa dan:aa 
+十升为一斗	shi:aa sheng:pc wei:dd yi:aa dou:du 
+是个大都会	shi:op ge:pa da:ad du:ev hui:ry 
+图穷匕首见	tu:kd qiong:bl bi:pg shou:qz xian:ag 
+为咱们长脸	wei:dd zan:kz men:rm zhang:pd lian:oa 
+无臭的气体	wu:ag xiu:zq de:bu qi:py ti:rb 
+行李都散了	xing:rd li:mz dou:ev san:wo le:aa 
+选他为代表	xuan:zx ta:ry wei:dd dai:ry biao:fy 
+一报还一报	yi:aa bao:fy huan:zb yi:aa bao:fy 
+一重又一重	yi:aa chong:pa you:ad yi:aa chong:pa 
+一物降一物	yi:aa wu:nw xiang:ef yi:aa wu:nw 
+有为的青年	you:ou wei:dd de:bu qing:fo nian:pa 
+铡刀该钢了	zha:jz dao:gp gai:yh gang:jg le:aa 
+长他人志气	zhang:pd ta:ry ren:pd zhi:ux qi:py 
+涨出了半尺	zhang:dv chu:ck le:aa ban:bf che:ad 
+朝阳的光芒	zhao:ou yang:eo de:bu guang:ea mang:cw 
+中行黑龙江	zhong:aa hang:rd hei:ad long:ad jiang:dg 
+中途再倒车	zhong:aa tu:zy zai:aa dao:rd che:aa 
+粥还温和呢	zhou:gg hai:zb wen:dm hu:hk ne:kn 
+坐汽车就晕	zuo:rt qi:dq che:aa jiu:yj yun:oj 
+佃于石壁间	tian:rt yu:aa shi:aa bi:tb jian:mo 
+沙漠为良田	sha:du mo:dm wei:dd liang:dg tian:aa 
+拉了一个口	la:fl le:aa yi:aa ge:pa kou:aa 
+草低见牛羊	cao:cz di:rd xian:ag niu:pa yang:da 
+虚与委蛇	xu:hy yu:aa wei:hn yi:it 
+着重要的	zhuo:ym zhong:pa yao:xn de:bu 
+畜妻养子	xu:dt qi:na yang:ya zi:aa 
+好借好还	hao:nz jie:rx hao:nz huan:zb 
+返老还童	fan:zf lao:bl huan:zb tong:ll 
+穿着一般	chuan:by zhuo:ym yi:aa ban:vu 
+穿着一件	chuan:by zhe:ym yi:aa jian:rn 
+更仆难数	geng:ad pu:rb nan:yv shu:wl 
+哩哩啦啦	li:kl li:kl la:kl la:kl 
+宁死不降	ning:bd si:db bu:ad xiang:ef 
+数不胜数	shu:wl bu:ad sheng:ou shu:wl 
+数见不鲜	shu:wl jian:ag bu:ad xian:yy 
+投篮中的	tou:fu lan:vj zhong:aa di:bu 
+泰然处之	tai:fu ran:dq chu:wb zhi:dd 
+为同行业	wei:dd tong:kk hang:rd ye:aa 
+呱呱而泣	gu:kg gu:kg er:aa qi:dl 
+呱呱坠地	gu:kg gu:kg zhui:td di:ty 
+碗折一折	wan:uw zhe:fj yi:aa zhe:fj 
+着得很旺	zhao:ym de:rc hen:rg wang:ow 
+着点儿盐	zhuo:ym dian:dv er:pg yan:mb 
+着即施行	zhuo:ym ji:eg shi:fy xing:rd 
+着人去取	zhuo:ym ren:pd qu:ts qu:ey 
+着些香油	zhuo:ym xie:ec xiang:ho you:dy 
+着重考虑	zhuo:ym zhong:pa kao:lk lv:hx 
+应对如流	ying:ga dui:cy ru:nk liu:di 
+应考几个	ying:ga kao:lk ji:py ge:pa 
+应考几门	ying:ga kao:lk ji:py men:dg 
+应诊断为	ying:ga zhen:yp duan:ja wei:dd 
+用不着转	yong:kf bu:ad zhao:ym zhuan:iv 
+一唱一和	yi:aa chang:ki yi:aa he:hk 
+一朝有事	yi:aa zhao:ou you:ou shi:aa 
+一了百了	yi:aa liao:aa bai:ab liao:aa 
+一走了之	yi:aa zou:tv liao:aa zhi:dd 
+削发为尼	xue:dx fa:ay wei:dd ni:ub 
+削足适履	xue:dx zu:kv shi:zu lv:uf 
+要买人心	yao:xn mai:at ren:pd xin:dd 
+的长尾巴	de:bu chang:pd wei:um ba:ag 
+东阿阿胶	dong:ad e:ek e:ek jiao:oj 
+脾气很拗	pi:ob qi:py hen:rg niu:fy 
+头喷棉花	tou:dd pen:kb mian:mb hua:ch 
+褪下一只	tui:yt xia:ab yi:aa zhi:kb 
+模模糊糊	mo:mm mo:mm hu:mh hu:mh 
+九凤鸣乐	jiu:py feng:jy ming:kn yue:pd 
+朝阳产业	zhao:ou yang:eo chan:wp ye:aa 
+朝阳初升	zhao:ou yang:eo chu:yd sheng:pc 
+朝阳鸣凤	zhao:ou yang:eo ming:kn feng:jy 
+躲得了	duo:ud de:rc liao:aa 
+躲不了	duo:ud bu:ad liao:aa 
+不一样	bu:ad yi:aa yang:my 
+二喷角	er:aa pen:kb jiao:dy 
+哈什蚂	ha:kh shi:ru ma:im 
+喷喷香	pen:kb pen:kb xiang:ho 
+褪套儿	tui:yt tao:di er:pg 
+拗不过	niu:fy bu:ad guo:zc 
+一不做	yi:aa bu:ad zuo:rg 
+一不坐	yi:aa bu:ad zuo:rt 
+哈巴狗	ha:kh ba:ag gou:qj 
+和点儿	huo:hk dian:dv er:pg 
+屈辱地	qu:ui ru:ci di:ty 
+鸭绿江	ya:jn lv:sl jiang:dg 
+拍卖行	pai:fb mai:um hang:rd 
+高句丽	gao:dk gou:bk li:ad 
+不得	bu:ad de:rc 
+哈巴	ha:kh ba:ag 
+喷香	pen:kb xiang:ho 
+褪去	tui:yt qu:ts 
+还价	huan:zb jia:rj 
+参芪	shen:sp qi:cu 
+参芎	shen:sp xiong:cg 
+霓裳	ni:ye chang:dy 
+刹那	cha:du na:el 
+风钻	feng:ji zuan:jv 
+龟兹	qiu:dd ci:by 
+贲临	bi:bh lin:ao 
+贲然	ben:bh ran:dq 
+一行白鹭上青天	yi:aa hang:rd bai:pa lu:nl shang:aa qing:fo tian:ad 
+朝辞白帝彩云间	zhao:ou ci:ux bai:pa di:dj cai:pc yun:es jian:mo 
+千里江陵一日还	qian:pa li:aa jiang:dg ling:el yi:aa ri:or huan:zb 
+中行黑龙江省	zhong:aa hang:rd hei:ad long:ad jiang:dg sheng:mu 
+扮演着重要	ban:ff yan:dy zhe:ym zhong:pa yao:xn 
+为了解真相	wei:dd liao:aa jie:jn zhen:uj xiang:mo 
+为了解目前	wei:dd liao:aa jie:jn mu:aa qian:bd 
+要着重考虑	yao:xn zhuo:ym zhong:pa kao:lk lv:hx 
+央行人民币	yang:ad hang:rd ren:pd min:ag bi:pj 
+着什么急	zhao:ym shen:ru me:ps ji:xi 
+为着力点	wei:dd zhuo:ym li:gp dian:dv 
+为同行的	wei:dd tong:kk xing:rd de:bu 
+作为了解	zuo:rv wei:dd liao:aa jie:jn 
+慎重考虑	shen:xv zhong:pa kao:lk lv:hx 
+再行议定	zai:aa xing:rd yi:yy ding:bp 
+推行内部	tui:fv xing:rd nei:ad bu:ek 
+运行业绩	yun:zy xing:rd ye:aa ji:sz 
+再行跨越	zai:aa xing:rd kua:zk yue:zy 
+再行起诉	zai:aa xing:rd qi:zj su:yi 
+行也得行	xing:rd ye:gg dei:rc xing:rd 
+应该行的	ying:ga gai:yh xing:rd de:bu 
+应付了事	ying:ga fu:rc liao:aa shi:aa 
+以己度人	yi:rd ji:ag duo:gy ren:pd 
+审时度势	shen:bu shi:oc duo:gy shi:lv 
+役畜产出	yi:ru xu:dt chan:wp chu:ck 
+长起来了	zhang:pd qi:zj lai:am le:aa 
+快还给我	kuai:xd huan:zb gei:sh wo:pd 
+不了了之	bu:ad liao:aa liao:aa zhi:dd 
+了不得了	liao:aa bu:ad de:rc le:aa 
+还给我了	huan:zb gei:sh wo:pd le:aa 
+还给我吧	huan:zb gei:sh wo:pd ba:kb 
+退耕还林	tui:zg geng:lj huan:zb lin:mm 
+福无重至	fu:uf wu:ag chong:pa zhi:tv 
+了无新意	liao:aa wu:ag xin:jq yi:lx 
+重名重姓	chong:pa ming:xk chong:pa xing:nu 
+功不可没	gong:gl bu:ad ke:dk mo:du 
+复调音乐	fu:pw diao:yv yin:lo yue:pd 
+二不休	er:aa bu:ad xiu:rm 
+也在行	ye:gg zai:ta hang:rd 
+挺在行	ting:ft zai:ta hang:rd 
+还了解	hai:zb liao:aa jie:jn 
+结果为	jie:sj guo:ad wei:dd 
+语调和	yu:yw diao:yv he:hk 
+受得了	shou:vy de:rc liao:aa 
+有着落	you:ou zhao:ym luo:cl 
+没着落	mei:du zhao:ym luo:cl 
+同行于	tong:kk xing:rd yu:aa 
+已发卡	yi:ag fa:ay ka:bx 
