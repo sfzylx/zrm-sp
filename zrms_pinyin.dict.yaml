@@ -30,6 +30,7 @@
 name: zrms_pinyin
 version: "0.2"
 sort: by_weight
+#use_preset_vocabulary: true
 vocabulary: essay-zh-hans
 
 ...
@@ -536,7 +537,7 @@ vocabulary: essay-zh-hans
 舌	she:qk	59
 竹	zhu:pa	96
 迁	qian:zq	34
-乔	qiao:yp	30
+乔	qiao:pp	30
 迄	qi:zq	30
 伟	wei:rw	575
 传	zhuan:rv	12
@@ -1179,7 +1180,7 @@ vocabulary: essay-zh-hans
 述	shu:zu	109
 枕	zhen:my	34
 丧	sang:ty	22
-或	huo:kg	1133
+或	huo:gk	1133
 画	hua:ak	493
 卧	wo:bi	45
 事	shi:aa	3566
@@ -1327,7 +1328,7 @@ vocabulary: essay-zh-hans
 刹	cha:du	14
 刹	sha:du	17
 命	ming:re	2703
-肴	yao:yy	30
+肴	yao:iy	30
 斧	fu:fj	43
 爸	ba:fb	975
 采	cai:mv	420
@@ -1479,7 +1480,7 @@ vocabulary: essay-zh-hans
 居	ju:ug	184
 届	jie:uy	70
 刷	shua:dj	140
-屈	qu:iu	64
+屈	qu:ui	64
 弧	hu:gg	30
 弥	mi:ge	25
 弦	xian:gx	16
@@ -1725,7 +1726,7 @@ vocabulary: essay-zh-hans
 钧	jun:jy	30
 钩	gou:jg	42
 钮	niu:ji	30
-卸	xie:ea	28
+卸	xie:ev	28
 缸	gang:fg	38
 拜	bai:uf	27
 看	kan:ou	6108
@@ -1844,8 +1845,8 @@ vocabulary: essay-zh-hans
 差	chai:yg	26
 差	ci:yg	30
 养	yang:ya	430
-美	mei:yd	466
-姜	jiang:yn	13
+美	mei:dm	466
+姜	jiang:ny	13
 叛	pan:fb	68
 送	song:zg	818
 类	lei:md	792
@@ -1992,9 +1993,9 @@ vocabulary: essay-zh-hans
 班	ban:ww	403
 素	su:fs	289
 匿	ni:kr	30
-蚕	can:ti	62
+蚕	can:it	62
 顽	wan:yy	56
-盏	zhan:jm	50
+盏	zhan:mj	50
 匪	fei:kf	118
 捞	lao:fl	68
 栽	zai:gm	54
@@ -2132,7 +2133,7 @@ vocabulary: essay-zh-hans
 哨	shao:kx	51
 哩	li:kl	225
 圃	pu:kf	30
-哭	ku:qk	373
+哭	ku:kq	373
 哦	e:kw	63
 哦	o:kw	196
 恩	en:xy	30
@@ -2149,7 +2150,7 @@ vocabulary: essay-zh-hans
 峨	e:uw	12
 峰	feng:uf	94
 圆	yuan:ky	197
-峻	jun:uw	12
+峻	jun:uj	12
 贼	zei:br	31
 贿	hui:by	30
 赂	lu:bg	30
@@ -2242,7 +2243,7 @@ vocabulary: essay-zh-hans
 卿	qing:mg	30
 逢	feng:zf	53
 鸵	tuo:nt	30
-留	liu:tl	484
+留	liu:td	484
 鸳	yuan:ne	30
 皱	zhou:ip	115
 饿	e:uw	164
@@ -2282,8 +2283,8 @@ vocabulary: essay-zh-hans
 旁	bang:wf	30
 旁	pang:wf	471
 旅	lv:fp	139
-畜	xu:tx	14
-畜	chu:dt	21
+畜	xu:xt	14
+畜	chu:xt	21
 阅	yue:md	22
 羞	xiu:yi	30
 羔	gao:hy	10
@@ -2415,7 +2416,7 @@ vocabulary: essay-zh-hans
 焉	yan:vh	30
 掉	diao:fv	471
 捶	chui:fi	15
-赦	she:wi	30
+赦	she:iu	30
 堆	dui:tv	233
 推	tui:fv	531
 埠	bu:tf	12
@@ -2797,7 +2798,7 @@ vocabulary: essay-zh-hans
 喜	xi:uk	459
 彭	peng:pd	30
 揣	chuai:fe	12
-插	cha:fi	170
+插	cha:fj	170
 揪	jiu:fq	37
 搜	sou:fs	61
 煮	zhu:hv	52
@@ -3027,7 +3028,7 @@ vocabulary: essay-zh-hans
 童	tong:ll	55
 竣	jun:lj	30
 阔	kuo:mh	148
-善	shan:ya	206
+善	shan:yk	206
 翔	xiang:yy	9
 羡	xian:yc	24
 普	pu:bo	322
@@ -3045,7 +3046,7 @@ vocabulary: essay-zh-hans
 湘	xiang:dx	30
 渣	zha:di	33
 渤	bo:db	30
-渺	miao:du	16
+渺	miao:dm	16
 湿	shi:dx	170
 温	wen:dm	493
 渴	ke:dh	48
@@ -3124,9 +3125,9 @@ vocabulary: essay-zh-hans
 鹉	wu:nw	30
 瑞	rui:we	30
 瑰	gui:wg	30
-瑙	nao:wi	30
+瑙	nao:wx	30
 魂	hun:gy	46
-肆	si:iy	30
+肆	si:ys	30
 摄	nie:fn	30
 摄	she:fn	128
 摸	mo:fm	284
@@ -3366,7 +3367,7 @@ vocabulary: essay-zh-hans
 截	jie:gv	53
 誓	shi:yv	25
 境	jing:tj	280
-摘	zhai:fg	79
+摘	zhai:fd	79
 摔	shuai:fl	128
 撇	pie:fb	30
 聚	ju:ed	73
@@ -3762,7 +3763,7 @@ vocabulary: essay-zh-hans
 鳄	e:ye	14
 癌	ai:bu	35
 辫	bian:sx	55
-赢	ying:wf	30
+赢	ying:bk	30
 糟	zao:mc	100
 糠	kang:mk	30
 燥	zao:hz	32
@@ -4698,13 +4699,13 @@ vocabulary: essay-zh-hans
 朐	qu:oj	10
 胫	jing:og	10
 鸨	bao:nu	10
-匍	pu:gf	10
+匍	pu:bf	10
 狨	rong:qr	10
 狯	kuai:qh	10
 飑	biao:fb	10
 狩	shou:qu	10
 狲	sun:qs	10
-訇	hong:gy	10
+訇	hong:by	10
 逄	pang:zj	10
 昝	zan:oi	10
 饷	xiang:ux	10
@@ -4824,14 +4825,14 @@ vocabulary: essay-zh-hans
 琤	cheng:wv	10
 珲	hun:wj	10
 珲	hui:wj	10
-敖	ao:ww	10
+敖	ao:wp	10
 恚	hui:xg	10
 埔	bu:tf	10
 埔	pu:tf	10
 埕	cheng:ti	10
 埘	shi:tu	10
 埙	xun:ty	10
-埚	guo:tn	10
+埚	guo:tg	10
 挹	yi:fy	10
 耆	qi:lo	10
 耄	mao:lm	10
@@ -4845,7 +4846,7 @@ vocabulary: essay-zh-hans
 荸	bi:cb	10
 莆	pu:cf	10
 莳	shi:cu	10
-莴	wo:cn	10
+莴	wo:cg	10
 莪	e:cw	10
 莠	you:cx	10
 莓	mei:cm	10
@@ -5124,7 +5125,7 @@ vocabulary: essay-zh-hans
 娠	shen:ni	10
 娌	li:nl	10
 娉	ping:nk	10
-娲	wa:nn	10
+娲	wa:ng	10
 娩	mian:nm	10
 娴	xian:nx	10
 娣	di:nd	10
@@ -5370,7 +5371,7 @@ vocabulary: essay-zh-hans
 脬	pao:of	10
 脘	wan:ow	10
 脲	niao:on	10
-匐	fu:gf	10
+匐	fu:bf	10
 猗	yi:qq	10
 猡	luo:ql	10
 猞	she:qu	10
@@ -5754,7 +5755,7 @@ vocabulary: essay-zh-hans
 湎	mian:dm	10
 湜	shi:du	10
 渭	wei:dw	10
-湍	tuan:de	10
+湍	tuan:dd	10
 湫	jiao:dq	10
 湫	qiu:dq	10
 溲	sou:ds	10
@@ -6120,7 +6121,7 @@ vocabulary: essay-zh-hans
 嫠	li:nw	10
 韬	tao:wy	10
 叆	ai:ya	10
-髦	mao:bm	14
+髦	mao:im	14
 摽	biao:fp	10
 墁	man:tm	10
 撂	liao:fg	12
@@ -6240,11 +6241,11 @@ vocabulary: essay-zh-hans
 犒	kao:ng	10
 箐	qing:vq	10
 箦	ze:vz	10
-箧	qie:vq	10
+箧	qie:vj	10
 箍	gu:vz	10
 箸	zhu:vv	10
 箬	ruo:vr	10
-箅	bi:vb	10
+箅	bi:vq	10
 箪	dan:vd	10
 箔	bo:vb	10
 箜	kong:vk	10
@@ -6291,7 +6292,7 @@ vocabulary: essay-zh-hans
 阚	kan:mg	10
 阚	han:mg	10
 鄯	shan:eu	10
-鲞	xiang:yj	10
+鲞	xiang:yf	10
 粿	guo:mg	10
 粼	lin:dl	10
 粽	zong:mz	10
@@ -6994,7 +6995,7 @@ vocabulary: essay-zh-hans
 羼	chan:uu	10
 蠡	li:it	10
 耱	mo:lm	10
-懿	yi:hd	10
+懿	yi:yx	10
 蘸	zhan:cj	10
 鹳	guan:nv	10
 霾	mai:yl	10
@@ -7160,7 +7161,7 @@ vocabulary: essay-zh-hans
 忺	xian:xq	5
 𬣡	jian:yj	5
 祃	ma:um	5
-诇	xiong:yk	5
+诇	xiong:yj	5
 邲	bi:eb	5
 诎	qu:yi	5
 诐	bi:yp	5
@@ -7478,7 +7479,7 @@ vocabulary: essay-zh-hans
 𬳽	shen:mx	5
 𬘩	ting:sy	5
 𫄧	yan:sy	5
-彖	tuan:ju	5
+彖	tuan:au	5
 骉	biao:mm	5
 恝	jia:xd	5
 珪	gui:wg	5
@@ -7985,7 +7986,7 @@ vocabulary: essay-zh-hans
 鲃	ba:yb	5
 猰	ya:qq	5
 𫛭	kuang:nk	5
-猯	tuan:qe	5
+猯	tuan:qd	5
 㺄	yu:qy	5
 馉	gu:ug	5
 凓	li:dl	5
@@ -8428,7 +8429,7 @@ vocabulary: essay-zh-hans
 戭	you:gy	5
 褯	jie:yx	5
 禤	xuan:uy	5
-𫍽	xuan:yx	5
+𫍽	xuan:yq	5
 嫽	liao:nl	5
 遹	yu:zy	5
 𬴊	lin:ml	5
@@ -8739,7 +8740,6 @@ vocabulary: essay-zh-hans
 诶	ei:yu	5
 咲	xiao:kg	5
 虵	she:iy	1
-
 #词组
 #多音字词组
 阿附	a:ek fu:ef
