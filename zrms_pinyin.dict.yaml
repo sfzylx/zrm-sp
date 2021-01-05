@@ -33,9 +33,9 @@ sort: by_weight
 #use_preset_vocabulary: true
 vocabulary: essay-zh-hans
 import_tables:
-  - guifan
-  - myself_shouxin
-  - zrmsjr_pinyin
+  - guifan         #规范词语
+  - myself_shouxin #自用词库，从手心输入法转入
+  - zrmsjr_pinyin  #自然码兼容辅助码
 
 ...
 
